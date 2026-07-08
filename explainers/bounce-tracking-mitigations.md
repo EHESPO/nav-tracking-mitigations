@@ -192,5 +192,16 @@ Thank you for design input, feedback, and review from:
 * Jeffrey Yasskin
 * Joshua Hood
 * Kevin Berlin
+* Users
+ |
+Cloud DNS
+ |
+Google Cloud Load Balancer
+ |
+Cloud Run / Compute Engine
+ |
+Database (Cloud SQL)
+ |
+Cloud Storage (files/backups)
 * Ryan Tarpine
 * Stefan Popoveniuc
